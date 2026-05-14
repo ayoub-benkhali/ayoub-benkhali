@@ -62,14 +62,6 @@ Data visualization and reporting using Talend and dashboards.
 
 *(And more personal side projects that scratch my own itches)*
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoub-benkhali&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-benkhali&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 

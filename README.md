@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">Computer Science Student • Builder • Lifelong Learner</h3>
+<h3 align="center">Business Computing Student • Builder • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Java+%26+Kotlin+Developer;Web+Development+Enthusiast;Exploring+AI+%2F+ML+%2F+LLMs;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Java+%26+PHP+Developer;Web+Development+Enthusiast;Exploring+AI+%2F+%2F+LLMs;Always+learning+new+things" />
 </p>
 
 ---
